@@ -11,26 +11,15 @@ A aplicação consiste em uma construção de um catálogo de filmes, e finaliza
 
 ## Layout 
 
-![DsMovies](https://user-images.githubusercontent.com/105529988/178133564-b9d8a167-89a7-4e65-a3e8-9b5953777ba8.png)
+![image](https://user-images.githubusercontent.com/105529988/179030131-2e190d70-f4f3-486b-93f7-a822921d4efb.png)
 
-![DsMovies1](https://user-images.githubusercontent.com/105529988/178134095-00a3bd0f-89f4-4f6e-b025-e6d5521db621.png)
+![image](https://user-images.githubusercontent.com/105529988/179030342-71a4bf62-3701-4e3f-b9a2-13fb70e3b59f.png)
 
 # Tecnologias utilizadas
 
 - HTML / CSS
 
-# Como executar o projeto
-
-#### Dica: extensões do VS Code
-
-- Color Highlight
-- Live Server
-
-#### Design Figma
-
-https://www.figma.com/file/hpQuzpGHq2MmrI87xnfMoT/DSMovie1
-
-#### Página do projeto
+# Página do projeto
 https://github.com/devsuperior/sds-dsmovie
 
 # Autor
